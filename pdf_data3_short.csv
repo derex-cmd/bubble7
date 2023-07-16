@@ -1,0 +1,401 @@
+practice.  
+"Acceptance criteria, acceptance processes and procedures, as well as demonstration for subsystems "
+"and/or components including their interfaces, shall be specified to ensure compliance with the subsystem and/or component requirements.  "
+"The Safety Plan, RAM plan and the RAM and Safety Validation Plan shall be updated (if appropriate) to ensure that all planned tasks are consistent with the system’ s emergent RAMS requirements following the "
+apportionment.  
+NOTE  Key areas of concern include requirements for personnel independence and the control of system 
+interfaces where safety functionality can be compromised.  
+"Safety -Related Application Conditions for the future tasks in life cycle phases Operation, Maintenance "
+and Decommissioning shall be derived from the RAMS analysis of the system under consideration performed in this life cycle phase.  
+7.6.3  Deliverables  
+"The results of this life cycle phase shall be documented, including:  "
+a) system architecture (structure of decomposition into subsystems etc.) including interface specifications and system hazard analysis (architecture and hazard analysis of subsystem and components);  
+b) allocation of RAMS requirement spec ification to subsystems and/or components;  
+c) Acceptance Criteria and demonstration and acceptance processes and procedures;  
+d) updated safety plan (if appropriate);  
+e) updated RAM plan (if appropriate);  
+f) updated RAM Validation Plan (if appropriate);  
+g) updated Safety Validation Plan (if appropriate);  
+h) updated Safety -Related Application Conditions (if appropriate);  
+i) updated hazard log (if appropriate).  
+This documentation shall include any assumptions and justifications made during this life cycle phas e. 
+7.7 Phase 6: Design and Implementation  
+7.7.1  Objectives  
+The objectives of this life cycle phase are to:  
+a) create subsystems and components conforming to RAMS requirements;  
+b) demonstrate subsystems and components conform to RAMS requirements;  
+c) refine plans for  future life cycle tasks involving RAMS.  
+7.7.2  Activities  
+The subsystems and components shall be designed to meet the RAMS requirements.  
+The design of the subsystems and components shall be implemented to meet RAMS requirements.  
+The RAMS tasks of further life cy cle phases shall be refined. These phases shall include:  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+69 
+ – Integration;  
+– Operation and maintenance;  
+– Performance monitoring (if applicable /could also be contractually agreed).  
+Operation and maintenance procedures shall be prepared. These procedures shal l include all the 
+"relevant information for providing spare parts, particularly items in safety -related functions.  "
+Training measures for operation and maintenance staff including training material shall be defined.  
+Manufacturing process capable of producing RAMS -validated subsystems and components shall be 
+prepared with the relevant activities defined in the safety plan for this purpose.  
+The following aspects should be considered:  
+– environmental stress screening;  
+– RAM improvement testing;  
+– inspection and testing for RAMS -related failure modes.  
+"A process for the integration into the system, that ensures for subsystems and components the RAMS "
+"conformity, shall be defined. Safety -related activities for this purpose are part of the Safety Plan.  "
+The following aspects should be considered:  
+– measures to prevent installation errors;  
+– testability of installed subsystems and components;  
+"– activities, defined in the safety plan, which are relevant to this life cycle phase.  "
+"A RAM analysis shall be performed,  "
+A hazard analysis for safety purposes shall be performed.  
+"A safety case shall be prepared, justifying that the system under consideration, as designed, meets the safety requirements. The contents and documentation structure of the safety case shall follow the requirements stated in 8.2.  "
+The RAMS Validation Plan shall be updated (if appropriate) to ensure that all planned tasks are consistent with the system’s emergent RAMS requirements following the design.  
+Installation and commissioning procedures shall be prepare d. 
+"Safety -Related Application Conditions and limitations for the future tasks in life cycle phases Operation, "
+"Maintenance and Decommissioning shall be derived from the deviations, which are identified in this life cycle phase.  "
+7.7.3  Deliverables  
+"The results of t his life cycle phase shall be documented, including:  "
+a) RAM analysis;  
+b) Hazard analysis;  
+c) updated Safety -Related Application Conditions (if appropriate);  
+d) updated hazard log (if appropriate);  
+e) installation and commissioning procedures;  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+70 f) operation and maintenance procedures;  
+g) training measures;  
+h) plan(s) for further life cycle tasks;  
+i) updated RAM plan (if appropriate);  
+j) updated safety plan (if appropriate);  
+k) updated RAM Validation Plan (if appropriate);  
+l) updated Safety Validation Plan (if  appropriate);  
+m) safety case(s) (if appropriate).  
+NOTE  The Safety Case preparation is an implicit deliverable of the objective of safety demonstration.  
+This documentation shall include any assumptions and justifications made during this life cycle phase.  
+7.7.4  Specific verification tasks 
+The following verification tasks shall be undertaken within this life cycle phase in addition to those tasks 
+required in 6.7.2:  
+a) verification that subsystem and component design complies with the RAMS requirements;  
+b) verifica tion that subsystems and components implementation complies with design;  
+c) verification that the manufacturing arrangements produce RAMS -validated subsystems and 
+components;  
+d) verification that all future life cycle activity plans are consistent with RAM S requirements for the 
+system.  
+NOTE  Verification is based on results of analyses and tests.  
+7.8 Phase 7: Manufacture  
+7.8.1  Objectives  
+The objectives of this life cycle phase are to:  
+a) manufacture the subsystems and components;  
+b) establish and apply RAMS -centred as surance arrangements.  
+7.8.2  Activities  
+The manufacturing process prepared in life cycle phase 6 shall be implemented and operated.  
+"RAMS- centred assurance arrangements shall be established, including:  "
+a) quality assurance measures suitable to meet RAMS requirements; 
+b) manufacturing process improvement and assurance measures as applicable;  
+c) environmental stress screening as applicable;  
+d) inspection and testing for RAMS -related failure modes.  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+71 
+" Safety -related application conditions for the future life cycle tasks of operation, maintenance and "
+decommissioning shall be derived from the deviations identified in this life cycle phase.  
+7.8.3  Deliverables  
+"The results of this life cycle phase shall be documented, including RAMS related aspects of:  "
+a) quality assurance reports ( regarding manufacturing process and measures for RAMS);  
+b) inspection and testing reports;  
+c) material handling and logistic arrangements;  
+d) updated hazard log (if appropriate);  
+e) updated Safety -Related Application Conditions (if appropriate);  
+f) updated safety case(s) (if appropriate);  
+g) updated RAM plan (if appropriate);  
+h) updated safety plan (if appropriate);  
+i) updated RAM Validation Plan (if appropriate);  
+j) updated Safety Validation Plan (if appropriate).  
+This documentation shall include any assum ptions and justifications made during this life cycle phase.  
+7.9 Phase 8: Integration  
+7.9.1  Objectives  
+The objectives of this life cycle phase are to:  
+"a) assemble and install the integrated system, total combination of subsystems and components "
+required to form the complete system;  
+"b) demonstrate that integrated system, subsystems and components work together as defined by the "
+interfaces;  
+"c) demonstrate that integrated system, subsystems and components meet their RAMS requirements;  "
+d) initiate system support arrangem ents.  
+7.9.2  Activities  
+The subsystems and components shall be integrated according to the integration planning. The fulfilment of the systems functionality as well as the specified RAMS requirements shall be demonstrated. The 
+"integrated system shall be installed into a higher level system. Therefore, the requirements of this life "
+cycle phase shall apply both to the integration of components and subsystems and to the incorporation of 
+a system into the superior system. This could be regarded as a two- tiered integration for which similar 
+activities apply.  
+"In case of modifications or changes introduced to the integrated system, a rollback procedure (i.e. capability to return to the previous release) should be available during integration.  "
+"In case of modifications or c hanges introduced, an impact analysis of the system architecture from life "
+cycle phase 5 shall be performed to ensure that the subsystems interact safely and perform the intended 
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+72 functions after the modification or change. The impact analysis shall evaluat e to which extent previous life 
+cycle activities shall be repeated.  
+The system shall be tested and analysed in accordance with the system integration planning. These tests 
+and analyses shall show that all subsystems and components of the system interact correctly as specified in the interface specifications to perform their intended function and do not perform unintended functions.  
+"During the integration of the subsystems and components of the system, the fulfilment of all safety -related "
+"application conditi ons defined for those subsystems and components shall be shown. This includes, for "
+"subsystems developed according to a code of practice, the evidence for the conformance of the realisation to the used Code of Practice.  "
+"Safety -related application conditions  inherited from the subsystems and components, which cannot be "
+"fulfilled at the technical system level, shall be derived and documented.  "
+"Additional system support arrangements related to RAMS aspects shall be initiated, including:  "
+a) start staff training;  
+b) make system support procedures available;  
+c) establish spare parts provision;  
+d) establish tool provision.  
+"Safety -related application conditions for the future life cycle phases operation, maintenance and "
+decommissioning shall be derived from the deviat ions identified in this life cycle phase.  
+7.9.3  Deliverables  
+"The results of this life cycle phase shall be documented, including:  "
+a) installation documentation;  
+b) integration report (if appropriate);  
+c) action taken to resolve failures and incompatibilities;  
+d) system support arrangements;  
+e) updated hazard log (if appropriate);  
+f) updated Safety -Related Application Conditions (if appropriate);  
+g) updated safety case(s) (if appropriate);  
+h) updated RAM plan (if appropriate);  
+i) updated safety plan (if appropriat e); 
+j) updated RAM Validation Plan (if appropriate);  
+k) updated Safety Validation Plan (if appropriate).  
+This documentation shall include assumptions and justifications made during this life cycle phase.  
+7.9.4  Specific verification tasks 
+The following verificati on tasks shall be undertaken within this life cycle phase in addition to those tasks 
+required in 6.7.2:  
+- evaluation that all SRACs of the integrated subsystems/ components are fulfilled during the integration.  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+73 
+ 7.10 Phase 9: System Validation  
+7.10.1  Objectives  
+The obj ectives of this life cycle phase are to:  
+a) confirm by examination and provision of objective evidence that the system under consideration in 
+combination with its Safety -Related Application Conditions complies with the RAMS requirements;  
+"b) confirm or update the safety case for the system under consideration, according to the results of the "
+validation.  
+7.10.2  Activities  
+The general requirements on activities to be performed are described in 6.7.3 . 
+"Dependent upon the level of the safety integrity for the system under consideration, validation activities shall include also:  "
+– The Hazard Log shall be reviewed and updated to record any residual hazards identified during system validation and to ensure that the risks from any such hazards are effectively managed.  
+– The safety plan shall be reviewed with regard to its continued applicability.  
+– The safety case for the system under consideration shall be updated. The safety case shall justify that the system under consideration complies with the system safety requirements.  
+"A probationary period of operation may be undertaken, to resolve potential in- service system problems. In "
+"this case, the need for demonstrating system safety shall be considered prior to the probationary operation and non- probationary operation.  "
+A process  for the acquisition and evaluation of operational data and maintenance data shall be 
+established and implemented as an input to a system improvement process.  
+"If the system has been subjected to an impact analysis as set out in 7.9.2, adequacy of this anal ysis shall "
+be evaluated.  
+"Safety -related application conditions for the future life cycle tasks operation, maintenance and "
+decommissioning shall be derived from the deviations identified in this life cycle phase.  
+Collection of all safety -related application conditions (e.g. in a record) for the future life cycle phases 
+"operation, maintenance and decommissioning shall be documented.  "
+7.10.3  Deliverables  
+"The results of this life cycle phase shall be documented, including:  "
+– RAM  validation report;  
+– safety validation r eport;  
+– updated hazard log (if appropriate);  
+– updated safety plan (if appropriate);  
+– updated safety case (if appropriate);  
+– updated Safety -Related Application Conditions (if appropriate);  
+– process for the acquisition and evaluation of operational data.  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+"74 In this life cycle phase, a Validation Report shall be outlined including:  "
+a) identification and name of:  
+- the system under consideration;  
+- the documents and other items used for the validation;  
+"- processes, technical support tools and equipment used, along with calibration data;  "
+- the simulation models used if any.  
+b) confirmation that the process and activities defined in the validation plan have been met. Deviations 
+from the validation plan shall be recorded and justified;  
+c) evaluation of the perfor mance and coverage of requirements tracing in development and verification;  
+d) confirmation that the development and verification have handled corrective actions in accordance with the change management process and procedures and with clearly identified deviations;  
+e) evaluate the coverage of the requirements for the system under consideration by the tests and/or analyses;  
+f) identification of the tests defined and executed by the validator if any;  
+"g) evaluate the correctness, consistency and adequacy of the qualification according to the required technology related standards;  "
+NOTE  The technology related standards are defined in the system requirements specification.  
+h) conclusion of the validation results and whether the system under consideration fulfils t he safety 
+requirements for its intended use in the defined environment.  
+The following may be covered by the safety case and the validation report can refer to this document 
+regarding:  
+– evaluation of the conformity of the development process and of the val idated system under 
+consideration against the requirement/activities defined in this European Standard.  
+"– evaluation of the conformity of the development process to the plans (e.g. Safety Plan, Quality management);  "
+"– confirmation of the correctness, consis tency and adequacy of the verification process (testing, "
+analysis and reviewing) with respect to the planning of the verification and the verification reports;  
+– identification and classification of all deviations and their relation to the safety -related application 
+conditions derived from those deviations in terms of risk. Taking into consideration external risk reduction measures;  
+"– confirmation of the correctness, consistency and adequacy of installation, commissioning, maintenance and operation manuals for the system under consideration.  "
+7.11 Phase 10: System acceptance  
+7.11.1  Objectives  
+The objectives of this life cycle phase are to:  
+"a) assess compliance of the total combination of subsystems, components, their interfaces and Safety -"
+Related Application Conditions w ith the overall RAMS requirements;  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+75 
+ b) accept the system for entry into service.  
+"NOTE  In this European Standard, the term system acceptance is used only for technical aspects of the "
+acceptance procedure. Legal aspects of the system acceptance are not considered in this standard. It is advised to 
+clarify the legal aspects of system acceptance between the customer and the supplier in advance.  
+7.11.2  Activities  
+"All system verification and validation tasks, specifically the RAMS verification & validation and the safety  "
+"case, shall be assessed in accordance with the defined risk acceptance criteria.  "
+NOTE  Risk acceptance criteria are given by contractual agreements or legal framework and were specified in 
+life cycle phase 4.  
+The results of this assessment shall be recorded in an acceptance report. The acceptance report should 
+"include a confirmation that the delivered product, system or process is fit for entry into service.  "
+The following tasks shall be undertaken by the entity which is accepting the system (railway duty ho lder 
+or other):  
+a) evaluation of the acceptance report with respect to the defined acceptance criteria;  
+b) evaluation of the safety plan with regard to its continued applicability including the possible need of Independent Safety Assessment (if applicable) ; 
+c) evaluation of the updated hazard log.  
+7.11.3  Deliverables  
+"The results of this life cycle phase shall be documented, including:  "
+- Independent Safety Assessment Report (if appropriate);  
+- endorsement of Safety -Related Application Conditions (if appropriate);  
+- Acceptance report.  
+This documentation shall include assumptions and justifications made during this life cycle phase.  
+"7.12 Phase 11: Operation, maintenance and performance monitoring  "
+7.12.1  Objectives  
+"The objective of this life cycle phase is to operate, maintain and support the system under consideration "
+such that compliance with RAMS requirements is maintained. This includes continuously monitoring and evaluating the RAMS performance of the system and deriving measures to address shortcomings and to achieve improvem ents.  
+7.12.2  Activities  
+"Prior to the start of this life cycle phase the manufacturer should provide to the customer all information necessary to formulate plans and procedures for Operation, Maintenance and performance monitoring, and enable compliance with RAMS requirements to be maintained. This information shall include any Safety -related Application Conditions (SRACs) identified during the course of verification and validation.  "
+The Operation and Maintenance Plans should include the following:  
+1) An explanation  of operational status: The conditions that exist in each system/subsystem/hardware 
+should be defined to provide operating and maintenance personnel with sufficient understanding during the following situations:  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+"76 a) start-up: this should describe the start -up conditions of the system, subsystem or hardware when "
+"power is initially applied, or following shut -down due to power interruption or other cause;  "
+b) normal operation: once the system/subsystem/hardware has successfully completed 
+"initialisation, the cond itions during normal operation shall be defined;  "
+"c) changeover: if the system/subsystem or hardware in which it is configured, has a facility to "
+"change over to either a cold or hot standby system/subsystem, then the conditions defined in a) "
+and b) should b e re-stated for this changeover routine. The reaction of the system/subsystem or 
+hardware to the changing of failed modules shall also be clearly defined;  
+d) shut-down: when a system/subsystem or hardware is shut down intentionally for a configuration 
+"change or de- commissioning, or unintentionally via a power failure, then all relevant conditions "
+shall be defined.  
+2) maintenance should be defined in respect of:  
+a) that undertaken on the system in- situ or at designated routine maintenance facilities;  
+"b) the repair or refurbishment of systems, subsystems or hardware that are no longer in- situ or that "
+"is taking place in facilities not classed as routine maintenance facilities, e.g. mid- life overhauls "
+which are undertaken by the customer and the manufacturer;  
+c) preventative maintenance;  
+d) corrective maintenance;  
+"e) maintenance aids: for each level of maintenance, the maintenance aids available to personnel "
+should be defined.  
+3) an analysis of human factors and competence requirements in maintenance that can inf luence the 
+continued achievement of the required RAMS performance.  
+4) an analysis of human factors and competence requirements in operation that can influence the continued achievement of the required RAMS performance.  
+"The operation and maintenance procedures shall be implemented, particularly with regard to system performance and life cycle cost issues. This requires considering the product, system or process in its operational environment, e.g. including the application of external risk reduction measures  "
+"Compliance with RAMS requirements shall be assured throughout this life cycle phase, by:  "
+a) regular review and update of operation and maintenance plans and procedures;  
+b) conformity with operational plans and procedures;  
+c) conformity with maintenance pl ans and procedures;  
+d) regular review of system training documentation;  
+e) regular review and update (if appropriate) of an operational Hazard Log;  
+f) ensuring compliance to the Safety -Related Application Conditions (SRACs);  
+g) investigating and handling hazardous incidents and accidents and ensuring rapid response fault finding;  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+77 
+" h) for systems undergoing modification, definition and implementation of mitigation actions, if "
+"applicable, to ensure the overall integrity of the system until the modification is completed or reported problems are investigated and corrected;  "
+"i) conformity with support agreements including logistics, spare parts, repairs, tools, calibration and quality measures to prevent or detect errors occurring during storage and transfer;  "
+j) maintenance of the failure reporting and corrective action system (FRACAS).  
+NOTE 1  The operational Hazard Log is based on the Hazard Record extracted from the Hazard Log resulting from 
+life cycle phase 10.  
+The review and updates of the Operation and Maintenance Plan shall include issues raised and addressed during the initial operation and maintenance phase and at applicable stages thereafter.  
+It shall be implemented a process for:  
+a) the acquisition of RAMS performance data;  
+"b) recording of RAMS performance data, associated analysis and evaluation as applicable, e.g. by "
+means of a FRACAS . 
+Throughout the operational lifetime the system baseline shall be recorded and kept traceable under 
+configuration management control.  
+NOTE 2  This is of special importance when critical faults are discovered and need to be corrected in more than 
+one installation. Manufacturers and maintainers might need to implement complementary arrangements for 
+"configuration management, so that the manufacturer can trace the baseline of syste ms provided to particular "
+customers and individual maintainers can trace the location of individual items.  
+"The FRACAS process is required to continuously provide feedback to the operations safety manager, the "
+"designer, manufacturer, operations manager and maintenance manager regarding any failures and "
+"defects (and possible causes) found during operational service, Failures will potentially have a variety of causes including component failures, operational errors, maintenance and other errors. It is therefor e "
+imperative that the reporting process is clear and logical and that there is a collective forum for all stakeholders to agree the most likely source of failure and hence investigation and corrective actions.  
+NOTE 3   
+1) Complementary FRACAS records can need to be kept by different entities. Maintenance organisations might 
+"have a generic FRACAS which covers many different types of system for which they are responsible, while "
+manufacturers can have a FRACAS which encompasses systems supplied to a variety of different customers. 
+The manufacturer can be able to diagnose component failures which are not accessible to the maintainer.  
+"2) Referencing of accidents, hazards and causes will preferably be consistent within the safety case and other "
+performance monitori ng tools and processes. This will help respective organisations to align issues and identify 
+trends.  
+The FRACAS shall be maintained throughout the operation and maintenance life cycle. To ensure that 
+"priority issues are addressed, the failures and defects should be categorised for both safety and reliability for varying levels of severity/criticality. As a minimum, the FRACAS shall be populated with information about failures and defects identified during operation and maintenance. This information shall include:  "
+a) time of the failure;  
+b) cause of the failure;  
+c) detailed description of the failure;  
+d) corrective action taken;  
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+78 e) safety ranking for the failure.  
+f) when and how the failures and defects have been detected (e.g. in operation or during a scheduled 
+maintenance);  
+g) the effects of the failures and defects up to the railway system level.  
+The FRACAS records shall be periodically reviewed to determine whether any improvement is needed in the following:  
+h) Operation and maintenance procedures and manuals;  
+i) System training documentation;  
+j) Operational Hazard Log;  
+k) System design;  
+l) Human factors aspects of operation and maintenance.  
+When changes are proposed an impact analysis shall be performed on each change request. The analysis shall include re viewing the impact on:  
+m) the system/subsystem or hardware operational/functional safety performance;  
+n) the system/subsystem/hardware interfaces;  
+o) adjacent system/subsystem or hardware operational/functional safety performance;  
+"p) the modification insta llation work, with consideration given to adjacent system/subsystem and "
+hardware that can be affected due to systematic failures.  
+"The impact analysis shall result in a decision on which parts of the safety life cycle will be repeated for the modification, all relevant documentation for the effected life cycle steps shall be updated, with equal depth "
+"and quality as the original documentation that was produced during the development of the system. The details and results of the modification, risk analysis and testing shall be included in the safety case.  "
+All changes and system/subsystem or hardware identified as being at risk shall be tested for correct operation on completion of the change.  
+For each identified recommendation a decision shall be taken whether the recommendation shall be realised or not. These decisions shall be justified and recorded.  
+7.12.3  Deliverables  
+"The results of this life cycle phase shall be documented, including:  "
+"a) updated system and support documentation, as appropriate, within this life cy cle phase;  "
+b) plans and records suitable to trace the RAMS tasks undertaken within this life cycle phase (e.g. evidence of correct execution of the Operation and Maintenance Plan);  
+c) reports of RAMS performance analyses and evaluations;  
+d) identified recommendations and record of associated decisions;  
+e) updated operational Hazard Log (if appropriate);  
+f) change request with impact analysis on the re- application of the system life cycle;  
+"g) design specifications and requirements updated, if impacted;  "
+BS EN 50126‑1:2017
+EN 50126- 1:2017 (E) 
+79 
+ h) system safety case updated as required to include design modification and/or risk analysis (as 
+appropriate);  
+i) updated Operation and Maintenance plans and processes.  
+This documentation shall include assumptions and justifications made during this life cycle phase.  
+7.12.4  Specific verification tasks 
+There are no specific verification requirements for this life cycle phase in addition to those tasks required 
+in 6.7.2 . 
+7.13 Phase 12: Decommissioning  
+7.13.1  Objectives  
+The objective of this life cycle phase is to control RAMS impli cations of system decommissioning and 
+disposal tasks.  
+7.13.2  Activities  
+The RAMS impact of decommissioning and disposal on any relevant external system or facility shall be identified.  
+"The decommissioning shall be planned, including the establishment of procedures for:  "
+a) the safe closing down of the system;  
+b) the safe dismantling of the system.  
+"As external systems or facilities can be affected, these systems or facilities also need consideration. It shall be taken into account that the disposal can represent a m odification of the external system or "
+facility.  
+7.13.3  Deliverables  
+"The results of this life cycle phase should be documented, including:  "
+- the impact on RAMS associated to the closing/dismantling of the system;  

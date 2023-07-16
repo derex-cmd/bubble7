@@ -1,0 +1,251 @@
+Issue: One
+Date: June 2023ERTMS/ETCS Baseline 3 Onboard
+Subsystem Requirements
+Page 8 of 149 RSSB
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/2023Part 2 ETCS Onboard Subsystem Requirements
+2.1
+Subsystem level requirements
+2.1.1 ETCS onboard subsystem: Technical compatibility with ETCS trackside subsystems
+2.1.1.1 The ETCS onboard subsystem shall be compliant with the mandatory specifications
+"for ETCS Baseline 3 Release 2, including all agreed solutions to error change requests"
+compatible with Baseline 3 Release 2. (Normative)
+Rationale
+G 2.1.1.2 Network technical compatibility: The ETCS comprises the trackside subsystem and
+"onboard subsystems, which have to be compatible in order for the system to operate"
+correctly.
+G 2.1.1.3 Network technical compatibility: An ETCS onboard subsystem that includes all
+solutions to error corrections compatible with Baseline 3 Release 2 will be technically
+compatible with the trackside subsystem while avoiding hazards associated with
+known errors in the specifications.
+G 2.1.1.4 Integration with train operations: An ETCS onboard subsystem that is incompatible
+with the ETCS trackside subsystem might not be capable of being integrated into the
+GB mainline railway.
+Guidance
+G 2.1.1.5 It is planned to fit the GB mainline railway with the ETCS trackside subsystem against
+Baseline 3 Release 2 of the ETCS specifications. ETCS trackside requirements have
+been included in the GB Digital Rail generic requirements suite to cater for the current
+position where ETCS onboard subsystems do not implement all of the error
+corrections. This is an interim state and implementation of the onboard error
+corrections will remove this constraint on the trackside application.
+G 2.1.1.6 Compliance with the mandatory specifications includes compliance with those
+Subset 026 clauses identified in Subset 026 section 9 that 'must be fulfilled by a SRS
+compliant ERTMS/ETCS onboard'. Although partial fulfilment is permitted by the CCS
+"NTSN, it can lead to technical or operational compatibility issues arising between"
+vehicles and the trackside when the vehicle extends its area of use. Future upgrades
+to address compatibility issues is likely to be costly to industry and are to be avoided.
+"G 2.1.1.7 The Baseline 3 Release 2 specifications are listed in the CCS NTSN, Annex A, Table A"
+2.3.
+G 2.1.1.8 The ERA technical opinion OPI 2020-2 provides details of error change requests and
+"their solutions, and is available on the ERA website. In future, error corrections are not"
+"expected to be published in technical opinions, instead the 2023 CCS TSI will be"
+proposing a new methodology for publishing error correction solutions.
+2.1.2 ETCS onboard subsystem: Impact on rail vehicle route availability
+2.1.2.1
+Retrofitting a rail vehicle with an ETCS onboard subsystem shall maintain the existing
+route availability of the rail vehicle to which it is fitted. (Normative)ERTMS/ETCS Baseline 3 Onboard
+Subsystem RequirementsRail Industry Standard
+RIS-0799-CCS
+Issue: One
+Date: June 2023
+RSSB Page 9 of 149
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/2023Rationale
+G 
+2.1.2.2 Route technical compatibility: So that a rail vehicle fitted with an ETCS onboard
+subsystem can still operate on all routes and lines over which it was able to operate
+prior to ETCS fitment.
+Guidance
+"G 2.1.2.3 The route availability of a rail vehicle, determined according to the processes defined"
+"in GERT8006, is used for the determination of the compatibility of rail vehicles with"
+underline bridges on a route. It is the comparison between the route availability
+number of a rail vehicle with the route availability number of an underline bridge at
+"the permissible speed of the vehicle, that determines the outcome of a route level"
+"assessment of technical compatibility for the vehicle, and may result in restrictions on"
+"where the rail vehicle is permitted to operate, and therefore its use, being imposed."
+G 2.1.2.4 Meeting this requirement is consistent with the industry agreed objective that fitting
+a rail vehicle with the ETCS onboard subsystem will have no adverse impact on rail
+"vehicle performance, or the GB mainline railway as a whole."
+"G 2.1.2.5 Where rail vehicles can operate on other networks, as well as the GB mainline railway,"
+this is considered in the ETCS onboard subsystem design.
+2.1.3 ETCS onboard subsystem: Impact on rail vehicle gauge clearance
+2.1.3.1
+Retrofitting a rail vehicle with an ETCS onboard subsystem shall not adversely affect
+the gauge clearance of the rail vehicle to which it is fitted. (Normative)
+Rationale
+G 2.1.3.2 Route technical compatibility: So that a rail vehicle fitted with an ETCS onboard
+subsystem can still operate on all routes and lines over which it was able to operate
+prior to ETCS fitment.
+Guidance
+G 2.1.3.3 The gauge clearance of a rail vehicle imposes restrictions on where it is permitted to
+operate and therefore its use. Meeting this requirement is consistent with the industry
+agreed objective that fitting a rail vehicle with the ETCS onboard subsystem will have
+"no adverse impact on rail vehicle performance, or the GB mainline railway as a whole."
+G 2.1.3.4 Adversely affecting existing gauge clearance would be changing the rail vehicle such
+that it is no longer compatible with the gauges for which it was cleared prior to the
+retrofit being undertaken. Compliance with this requirement does not preclude the
+rail vehicle gauge clearance being maintained or improved.
+"G 2.1.3.5 Where rail vehicles can operate on other networks, as well as the GB mainline railway,"
+this is considered in the ETCS onboard subsystem design.
+2.1.4 ETCS onboard subsystem: Impact on rail vehicle maximum design speed
+2.1.4.1
+Retrofitting a rail vehicle with an ETCS onboard subsystem shall not adversely affect
+the maximum design speed of the rail vehicle. (Normative)Rail Industry Standard
+RIS-0799-CCS
+Issue: One
+Date: June 2023ERTMS/ETCS Baseline 3 Onboard
+Subsystem Requirements
+Page 10 of 149 RSSB
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/2023Rationale
+G 
+2.1.4.2 Performance: So that a rail vehicle fitted with an ETCS onboard subsystem can still
+achieve the same maximum speed as it could prior to ETCS fitment.
+Guidance
+G 2.1.4.3 Meeting this requirement is consistent with the industry agreed objective that fitting
+a rail vehicle with the ETCS onboard subsystem will have no adverse impact on rail
+"vehicle performance, or the GB mainline railway as a whole."
+"G 2.1.4.4 This requirement is related to the design speed of the rail vehicle, and not to:"
+a) The capability for the train driver to amend the maximum train speed as part of
+train data entry; or
+b) The capability for an authorised person to amend the maximum train speed in
+train data configured in the ETCS onboard subsystem; or
+c) Any rounding applied when converting the existing mph rail vehicle design speed
+"into a km/h value in multiples of 5km/h, and the impact of the ETCS onboard"
+supervision to that km/h value when operating in ETCS.
+G 2.1.4.5 Compliance with this requirement does not preclude the maximum design speed of
+the rail vehicle being increased.
+"G 2.1.4.6 Where rail vehicles can operate on other networks, as well as the GB mainline railway,"
+the design speed is considered in the ETCS onboard subsystem design.
+2.1.5 ETCS onboard subsystem: Impact on rail vehicle braking performance
+2.1.5.1
+Retrofitting a rail vehicle with an ETCS onboard subsystem shall not adversely affect
+the braking capability of the rail vehicle. (Normative)
+Rationale
+G 2.1.5.2 Route technical compatibility: A rail vehicle fitted with an ETCS onboard subsystem
+can be operated on lines where trains are operated using a lineside signalling system.
+The braking capability of the rail vehicle affects the stopping distance. Lineside signal
+spacing and cautionary aspect sequences affect how much distance (and time) the
+train driver has to stop the train at the limit of movement authority (MA).
+G 2.1.5.3 Safe integration: This requirement is used to control Hazard OB-H015.
+Guidance
+G 2.1.5.4 Meeting this requirement is consistent with the industry agreed objective that fitting
+a rail vehicle with the ETCS onboard subsystem will have no adverse impact on rail
+"vehicle performance, or the GB mainline railway as a whole."
+G 2.1.5.5 Compliance with this requirement does not preclude the braking capability of the rail
+vehicle being improved.
+"G 2.1.5.6 Where rail vehicles can operate on other networks, as well as the GB mainline railway,"
+braking capability is considered in the ETCS onboard subsystem design.ERTMS/ETCS Baseline 3 Onboard
+Subsystem RequirementsRail Industry Standard
+RIS-0799-CCS
+Issue: One
+Date: June 2023
+RSSB Page 11 of 149
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/20232.1.6 ETCS onboard subsystem: Impact on rail vehicle operating restrictions
+2.1.6.1
+Retrofitting a rail vehicle with an ETCS onboard subsystem shall not result in any
+additional restrictions that would adversely affect operation of the rail vehicle on the
+routes where it is currently permitted to be operated. (Normative)
+Rationale
+G 2.1.6.2 Economic: Introducing additional operating restrictions could adversely affect the
+ability of train operators to fulfil their train service provision commitments.
+Guidance
+G 2.1.6.3 Many existing rail vehicles that operate on the GB mainline railway do not conform to
+current standards and were not authorised under current regulations. It is
+economically beneficial to achieve ETCS onboard subsystem fitment so that the
+conformity assessment needed for authorisation is limited to conformity with the
+basic parameters applicable to the ETCS onboard subsystem and its interfaces.
+G 2.1.6.4 The term ‘Grandfather rights’ is used to relate to the operation of rolling stock:
+a) Built before current regulations or standards were issued; or
+b) That do not comply with current regulations or standards; or
+c) For which specific derogations have been issued.
+G 2.1.6.5 There is benefit in not invalidating the 'Grandfather rights' due to the retrofitment of
+the ETCS onboard subsystem.
+G 2.1.6.6 Although interoperability authorisations are not required for the existing rolling stock
+"subsystem that predates the interoperability regulations, there is still the need for the"
+operator of these trains to comply with The Railways and Other Guided Transport
+Systems (Safety) Regulations 2006 and apply the relevant Common Safety Methods.
+The application of a new CCS subsystem will require interoperability authorisation.
+G 2.1.6.7 Exemptions from parts of applicable NTSNs that an older vehicle does not need to
+comply with may be granted by the Department for Transport (DfT) - see Regulation
+14 of the Rail Interoperability Regulations 2011 (as amended).
+G 2.1.6.8 The Office of Rail and Road (ORR) can be consulted for guidance on authorisation of
+rolling stock designed to earlier standards.
+G 2.1.6.9 The supplier can discuss this requirement with the relevant conformity assessment
+body before design takes place.
+2.1.7 ETCS onboard subsystem: Reliability and availability targets
+2.1.7.1
+"The ETCS onboard subsystem shall, as a minimum, meet the Mean Time Between"
+Service Affecting Failure (MTBSAF) and Mean Time Between Mission Failure
+(MTBMF) targets for the onboard subsystem as set out in the ERTMS Reliability
+Specification NR/AM/SA/SPE/00147. (Normative)Rail Industry Standard
+RIS-0799-CCS
+Issue: One
+Date: June 2023ERTMS/ETCS Baseline 3 Onboard
+Subsystem Requirements
+Page 12 of 149 RSSB
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/2023Rationale
+G 
+2.1.7.2 Reliability & Availability: The MTBSAF and MTBMF achieved by the ETCS onboard
+subsystem influences the overall reliability and availability of the ETCS.
+G 2.1.7.3 Integration with train operations: An unreliable ETCS onboard subsystem is a
+"potential hazard, which would need to be managed as part of the process of safe"
+integration of an ETCS fitted rail vehicle into the GB mainline railway.
+Guidance
+G 2.1.7.4 This requirement contributes to addressing the open point in the CCS NTSN on the
+mean time of hours of operation between failures of a CCS on-board subsystem
+requiring the isolation of the train protection functions.
+"G 2.1.7.5 NR/AM/SA/SPE/00147 sets out reliability and availability targets for the ETCS, which"
+are then apportioned to the respective elements of the onboard and trackside
+subsystems.
+G 2.1.7.6 Meeting the MTBSAF and MTBMF targets specified in NR/AM/SA/SPE/00147 means
+that the ETCS onboard subsystem will be at least as reliable as the existing Class B
+systems used on the GB mainline railway. Any increase in failures associated with an
+ETCS onboard subsystem might result in overall performance losses in conventionally
+signalled or ETCS with signals areas.
+G 2.1.7.7 NR/AM/SA/SPE/00147 sets out that hours operating in Isolation (IS) are not to be
+counted as contributing to the MTBSAF requirements.
+G 2.1.7.8 NR/AM/SA/SPE/00147 is called up by the requirements in the GB Digital Rail generic
+requirements suite and is published as a supporting document on the SR&I webpage
+alongside that suite. The link to the SR&I webpage can be found on the standards
+landing page for this RIS on the RSSB's website (www.rssb.co.uk).
+2.1.8 ETCS onboard subsystem: Maximum time from No Power (NP) to Standby (SB)
+2.1.8.1
+The ETCS onboard subsystem shall take no more than 60 seconds to go from NP to
+being ready to accept data entry in SB (Status S0). (Normative)
+Rationale
+G 2.1.8.2 Availability: The time taken to initialise the ETCS onboard subsystem has operational
+"implications, for example, it influences how long it takes to make a train ready to"
+start a new journey when it reverses at a terminal station.
+G 2.1.8.3 Performance: Significantly increasing the time taken to make trains ready to start
+could impact on the ability to deliver the train timetable.
+Guidance
+G 2.1.8.4 The 60 seconds limit includes all of the time needed to undertake any self-test
+functions when the ETCS onboard subsystem is operating correctly. It does not
+include additional time required for managing failure conditions identified during
+self-test functions or due to delays in receiving driver or other train inputs upon which
+the start up sequence depends.ERTMS/ETCS Baseline 3 Onboard
+Subsystem RequirementsRail Industry Standard
+RIS-0799-CCS
+Issue: One
+Date: June 2023
+RSSB Page 13 of 149
+Uncontrolled when printed 
+Original document supersedes RIS‐0797‐CCS Iss 1 and RIS-0798-CCS Iss 1 with effect from 03/06/2023G 2.1.8.5 This time value is applicable to the ETCS start of mission when the rail vehicle is being
+"powered-up for the first time, and after an ETCS reset when the ETCS onboard"
+subsystem has been de-powered and re-powered manually as a result of system
+failure or otherwise.
+G 
+2.1.8.6 Status S0 is defined within Subset-026 Chapter 5.
+2.1.9 ETCS onboard subsystem: time from SB with the cab inactive to commencing a
+journey
+Guidance
+G 
+2.1.9.1 The time taken from opening a driving cab to the train being ready to commence the
+"mission has operational implications, for example, it influences how long it takes to"
+"make a train ready to start a new journey when it reverses at a terminal station, or for"
+a train to commence a journey after driver handover.  Increasing the time taken to
+make trains ready to commence a journey could impact on the ability to deliver the
+train timetable.
